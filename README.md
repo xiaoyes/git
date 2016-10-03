@@ -1,2 +1,5 @@
 # git
-learning &amp; using git
+learning using git
+
+hello ! welcome to xiaoyes git!
+
